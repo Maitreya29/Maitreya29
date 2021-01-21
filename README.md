@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">, My name is Maitreya Patni
+# Hi there! My name is Maitreya Patni <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
 **I am a 14 year old student at Delhi Public School, Indore. I do full stack web, app and I also like making my own custom Android distributions commonly known as roms**
 
 <table>
