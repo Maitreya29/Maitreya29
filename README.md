@@ -11,7 +11,7 @@
 🔭 I’m currently working on my own distributon of Android called NezukoOS
  
  #### Stats:
- ![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=Maitreya29&show_icons=true&theme=dark)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maitreya29&layout=compact&theme=dark)](https://github.com/KG-1510/KG-1510)
+ ![Maitreya's github stats](https://github-readme-stats.vercel.app/api?username=Maitreya29&show_icons=true&theme=dark)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maitreya29&layout=compact&theme=dark)](https://github.com/Maitreya29/Maitreya29)
  
  #### I'm fluent in:
  * <img align="left" alt="C" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" /> C 
