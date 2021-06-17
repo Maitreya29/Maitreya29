@@ -1,5 +1,5 @@
 # Hi there! My name is Maitreya Patni <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
-**I am a 15 year old student at Delhi Public School, Indore. I do full stack web, app and I also like making my own custom Android distributions commonly known as roms**
+**I am a 15 year old student at Delhi Public School, Indore.**
 
 <table>
   <tr>
@@ -7,8 +7,6 @@
     <td><img src="https://profile-counter.glitch.me/Maitreya29/count.svg" alt="vistor count" height="30" /></td>
   </tr>
 </table>
-
-🔭 I’m currently working on my own distributon of Android called NezukoOS
  
  #### Stats:
  ![Maitreya's github stats](https://github-readme-stats.vercel.app/api?username=Maitreya29&show_icons=true&theme=dark)
